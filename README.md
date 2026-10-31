@@ -1,18 +1,18 @@
 # Adidas-Sales-Analysis-dashboard
 1. Project Title / Headline
-Adidas Sales Analysis & Business Performance Dashboard | Power BI
+    Adidas Sales Analysis & Business Performance Dashboard | Power BI
 2. Short Description / Purpose
-The Adidas Sales Analysis Dashboard is an interactive business intelligence project developed using Microsoft Power BI to analyse sales performance, profitability, product demand, and regional revenue distribution.
+     The Adidas Sales Analysis Dashboard is an interactive business intelligence project developed using Microsoft Power BI to analyse sales performance, profitability, product demand, and regional revenue distribution.
 
 The primary objective is to transform raw sales data into meaningful business insights by tracking key performance indicators (KPIs), identifying monthly sales trends, comparing retailer performance, and evaluating product and regional contributions. The dashboard helps stakeholders make informed, data-driven decisions and identify opportunities to improve overall business performance.
 3. Tech Stack
-The following technologies and tools are relevant to the project:
+    The following technologies and tools are relevant to the project:
 - Microsoft Power BI: Dashboard development, interactive visualisations, and business reporting.
 - Power Query: Data cleaning, transformation, and preparation.
 - DAX (Data Analysis Expressions): Calculated measures and KPI development.
 - Microsoft Excel: Sales data handling and preliminary data preparation, if used in your workflow.
 4. Data Source
-The project uses an Adidas US Sales dataset stored in an Excel workbook named Adidas US Sales_Datasets.xlsx.
+   The project uses an Adidas US Sales dataset stored in an Excel workbook named Adidas US Sales_Datasets.xlsx.
 
 The dataset contains transactional sales information covering different retailers, products, geographical locations, pricing, and sales channels.
 
@@ -44,7 +44,7 @@ Power Query was used to prepare the dataset before dashboard development. The tr
 - Prepared the dataset for KPI calculations and visual analysis.
 The prepared dataset was then used to develop the Power BI data model and interactive dashboard.
 5. Features / Highlights
-This section is particularly important because it demonstrates your actual analytical and technical work rather than simply listing the charts.
+   This section is particularly important because it demonstrates your actual analytical and technical work rather than simply listing the charts.
 A. Key Performance Indicators (KPIs)
 Developed five primary business performance measures using DAX:
 1. Total Sales: Calculates overall sales revenue using the selling price per unit multiplied by the number of units sold.
@@ -82,4 +82,4 @@ The dashboard provides a consolidated view of business performance, allowing sta
 - Compare sales performance across different sales methods.
 - Support strategic business planning through data-driven analysis.
 - 6. Screenshots / Demo
-  7. https://github.com/Muskan112/Adidas-Sales-Analysis/blob/main/Snapshot%20of%20Adidas%20sales%20dashboard.png
+          https://github.com/Muskan112/Adidas-Sales-Analysis/blob/main/Snapshot%20of%20Adidas%20sales%20dashboard.png
