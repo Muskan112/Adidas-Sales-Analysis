@@ -1,39 +1,20 @@
 # Adidas-Sales-Analysis-dashboard
-1. Project Title / Headline
-    Adidas Sales Analysis & Business Performance Dashboard | Power BI
-2. Short Description / Purpose
+1. Project Title / Headline:
+   Adidas Sales Analysis & Business Performance Dashboard | Power BI
+2. Short Description / Purpose:
      The Adidas Sales Analysis Dashboard is an interactive business intelligence project developed using Microsoft Power BI to analyse sales performance, profitability, product demand, and regional revenue distribution.
 
 The primary objective is to transform raw sales data into meaningful business insights by tracking key performance indicators (KPIs), identifying monthly sales trends, comparing retailer performance, and evaluating product and regional contributions. The dashboard helps stakeholders make informed, data-driven decisions and identify opportunities to improve overall business performance.
-3. Tech Stack
+3. Tech Stack:
     The following technologies and tools are relevant to the project:
 - Microsoft Power BI: Dashboard development, interactive visualisations, and business reporting.
 - Power Query: Data cleaning, transformation, and preparation.
 - DAX (Data Analysis Expressions): Calculated measures and KPI development.
 - Microsoft Excel: Sales data handling and preliminary data preparation, if used in your workflow.
-4. Data Source
+4. Data Source:
    The project uses an Adidas US Sales dataset stored in an Excel workbook named Adidas US Sales_Datasets.xlsx.
-
-The dataset contains transactional sales information covering different retailers, products, geographical locations, pricing, and sales channels.
-
-Dataset structure:
-
-The primary dataset includes the following fields:
-Column	Description
-Retailer	Name of the retailer
-Retailer ID	Unique retailer identifier
-Invoice Date	Date of the sales transaction
-Region	Geographical sales region
-State	State where the sale occurred
-City	City where the sale occurred
-Product	Adidas product category
-Price per Unit	Selling price per product unit
-Units Sold	Number of units sold
-Operating Profit	Profit generated from sales
-Operating Margin	Operating profit margin
-Sales Method	Channel through which the product was sold
-
-Data preparation and transformation:
+   The dataset contains transactional sales information covering different retailers, products, geographical locations, pricing, and sales channels.
+   Data preparation and transformation:
 
 Power Query was used to prepare the dataset before dashboard development. The transformation steps included:
 - Imported sales data from the Excel workbook.
@@ -42,16 +23,16 @@ Power Query was used to prepare the dataset before dashboard development. The tr
 - Removed blank rows and unnecessary columns.
 - Handled missing Region values by replacing null values with East.
 - Prepared the dataset for KPI calculations and visual analysis.
-The prepared dataset was then used to develop the Power BI data model and interactive dashboard.
-5. Features / Highlights
+  The prepared dataset was then used to develop the Power BI data model and interactive dashboard.
+5. Features / Highlights:
    This section is particularly important because it demonstrates your actual analytical and technical work rather than simply listing the charts.
 A. Key Performance Indicators (KPIs)
 Developed five primary business performance measures using DAX:
-1. Total Sales: Calculates overall sales revenue using the selling price per unit multiplied by the number of units sold.
-2. Total Profit: Measures the total operating profit generated across sales transactions.
-3. Total Units Sold: Calculates the total quantity of Adidas products sold.
-4. Average Price per Unit: Identifies the average selling price across transactions.
-5. Average Profit Margin: Measures the average operating profit margin.
+  Total Sales: Calculates overall sales revenue using the selling price per unit multiplied by the number of units sold.
+  Total Profit: Measures the total operating profit generated across sales transactions.
+  Total Units Sold: Calculates the total quantity of Adidas products sold.
+  Average Price per Unit: Identifies the average selling price across transactions.
+  Average Profit Margin: Measures the average operating profit margin.
 B. Sales Trend Analysis
 - Developed a monthly sales trend visualisation to monitor revenue performance over time.
 - Enabled analysis of monthly fluctuations and potential seasonal sales patterns.
@@ -81,5 +62,5 @@ The dashboard provides a consolidated view of business performance, allowing sta
 - Explore monthly sales trends.
 - Compare sales performance across different sales methods.
 - Support strategic business planning through data-driven analysis.
-- 6. Screenshots / Demo
+6. Screenshots / Demo:
           https://github.com/Muskan112/Adidas-Sales-Analysis/blob/main/Snapshot%20of%20Adidas%20sales%20dashboard.png
