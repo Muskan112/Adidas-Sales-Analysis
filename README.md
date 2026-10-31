@@ -33,13 +33,19 @@ The prepared dataset was then used to develop the Power BI data model and intera
 5. Features / Highlights:
 This section is particularly important because it demonstrates your actual analytical and technical work rather than simply listing the charts.
 
-A. Key Performance Indicators (KPIs)
-   Developed five primary business performance measures using DAX:
--Total Sales: Calculates overall sales revenue using the selling price per unit multiplied by the number of units sold.
--Total Profit: Measures the total operating profit generated across sales transactions.
--Total Units Sold: Calculates the total quantity of Adidas products sold.
--Average Price per Unit: Identifies the average selling price across transactions.
--Average Profit Margin: Measures the average operating profit margin.
+A. Key Performance Indicators (KPIs)  
+
+Developed five primary business performance measures using DAX:  
+-Total Sales: Calculates overall sales revenue using the selling price per unit multiplied by the number of units sold.  
+
+-Total Profit: Measures the total operating profit generated across sales transactions.  
+
+-Total Units Sold: Calculates the total quantity of Adidas products sold.  
+
+-Average Price per Unit: Identifies the average selling price across transactions.  
+
+-Average Profit Margin: Measures the average operating profit margin.  
+
 
 B. Sales Trend Analysis
   - Developed a monthly sales trend visualisation to monitor revenue performance over time.
