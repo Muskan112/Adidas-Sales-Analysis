@@ -84,4 +84,5 @@ The dashboard provides a consolidated view of business performance, allowing sta
 
 
 6. Screenshots / Demo:
-https://github.com/Muskan112/Adidas-Sales-Analysis/blob/main/Snapshot%20of%20Adidas%20sales%20dashboard.png
+   
+Dasboard Preview:(https://github.com/Muskan112/Adidas-Sales-Analysis/blob/main/Snapshot%20of%20Adidas%20sales%20dashboard.png)
