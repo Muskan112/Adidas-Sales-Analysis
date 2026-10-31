@@ -17,8 +17,7 @@ The following technologies and tools are relevant to the project:
 The project uses an Adidas US Sales dataset stored in an Excel workbook named Adidas US Sales_Datasets.xlsx.
 The dataset contains transactional sales information covering different retailers, products, geographical locations, pricing, and sales channels.
 Data preparation and transformation:
-
-Power Query was used to prepare the dataset before dashboard development. The transformation steps included:
+ Power Query was used to prepare the dataset before dashboard development. The transformation steps included:
   - Imported sales data from the Excel workbook.
   - Promoted the first row as column headers.
   - Assigned appropriate data types to columns, including dates, numerical values, and text fields.
@@ -29,6 +28,7 @@ The prepared dataset was then used to develop the Power BI data model and intera
 
 5. Features / Highlights:
 This section is particularly important because it demonstrates your actual analytical and technical work rather than simply listing the charts.
+
 A. Key Performance Indicators (KPIs)
 Developed five primary business performance measures using DAX:
   -Total Sales: Calculates overall sales revenue using the selling price per unit multiplied by the number of units sold.
